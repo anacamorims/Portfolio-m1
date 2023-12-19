@@ -1,2 +1,2 @@
-Miniprojeto portfólio M1 PdA 
+Miniprojeto M1 portfólio - PdA 
 https://portfolio-m1-henna.vercel.app/
